@@ -24,3 +24,5 @@ Por último, al seleccionar la información de un producto en específico, se si
 - npm install 
 - npm run dev
 
+
+
