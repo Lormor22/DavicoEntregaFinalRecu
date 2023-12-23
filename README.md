@@ -1,6 +1,6 @@
-#Proyecto Final React Davico
+# Proyecto Final React Davico
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto es el resultado de la elaboración de un e-commerce desarrollado para el curso de Front-End. de [Coderhouse](https://www.coderhouse.com/ "Coderhouse").
 Basándome en los ejemplos que nos dieron a lo largo de la cursada, decidí enfocarme en la temática de una tienda de libros, los cuales pueden ser separados por categorías, entre libros e historietas. El mismo cuenta con una base de datos alojada en Firestore, la cual almacena la información de cada libro, precio y stock.
@@ -11,7 +11,7 @@ Además otro elemento agregado es la restricción dependiendo de cómo uno uno i
 
 Por último, al seleccionar la información de un producto en específico, se simulará un retraso en la carga del producto. De esta manera, se puede apreciar el cartel de "Cargando..." y confirmar que está implementado.
 
-##Tecnologias
+## Tecnologias
 - Vite
 - Node
 - React Js Vanilla
@@ -20,7 +20,7 @@ Por último, al seleccionar la información de un producto en específico, se si
 - React-Toastify
 - FireBase
 
-##Instalación
+## Instalación
 -  git clone "https://github.com/Lormor22/DavicoEntregaFinalRecu"
 - npm install 
 - npm run dev
