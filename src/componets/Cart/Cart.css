@@ -1,0 +1,11 @@
+.img_libro{
+width: 150px;
+height: 200px;
+}
+
+
+.boton_transparente{
+    background-color: transparent;
+    border: none;
+    color: inherit;
+}

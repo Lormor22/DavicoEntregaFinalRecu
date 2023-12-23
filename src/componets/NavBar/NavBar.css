@@ -1,0 +1,18 @@
+.icono-carrito{
+    position: relative;
+    display: inline-block;
+
+}
+.carrito{
+    position: absolute;
+    bottom: -15px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    padding: 0 5px 0 5px;
+    border-radius: 50%;
+    font-size: 10px;
+
+}
+
+/* position-absolute bg-danger text-white rounded-circle px-2  */
